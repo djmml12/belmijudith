@@ -558,6 +558,23 @@ ul.search li a:hover {
 
 /* our plane */
 
+/*boton direccion */
+.btn_directions {
+     display: inline-block;
+     background-color: #8B5E3C; /* Azul */
+     color: #fff; /* Texto blanco */
+     padding: 10px 15px;
+     font-size: 16px;
+     font-weight: bold;
+     text-decoration: none;
+     border-radius: 8px;
+     transition: background 0.3s ease;
+ }
+ 
+ .btn_directions:hover {
+     background-color: #0056b3; /* Azul más oscuro en hover */
+ }
+ 
 
 /* our plane */
 
