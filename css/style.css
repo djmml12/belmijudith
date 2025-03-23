@@ -719,6 +719,7 @@ ul.search li a:hover {
      line-height: 20px;
      padding-bottom: 25px;
      display: block;
+     
 }
 
 .marriage_text h3 {
@@ -734,6 +735,17 @@ ul.search li a:hover {
      font-size: 17px;
      line-height: 30px;
      padding-bottom: 43px;
+     text-align: justify;
+    
+}
+
+.marriage_text p2 {
+     color: #202020;
+     font-size: 17px;
+     line-height: 30px;
+     padding-bottom: 43px;
+     text-align: center;
+    
 }
 
 .marriage_text h4 {
