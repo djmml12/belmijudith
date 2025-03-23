@@ -358,13 +358,13 @@ ul.search li a:hover {
  }
  
  .build_box p {
-     color: #fff;
+     color: #000000;
      font-size: 40px;
      line-height: 1.2;
      font-weight: normal;
      margin: 0; /* Elimina márgenes innecesarios */
      font-family: 'Praise', sans-serif;
-     text-shadow: 2px 2px 4px #000000;
+     /* text-shadow: 2px 2px 4px #000000; */
      text-align: center;
      word-wrap: break-word;
      white-space: normal;
@@ -675,35 +675,6 @@ ul.search li a:hover {
 
 /** boton Whatsapp **/
 
-<style>
-   .confirm-btn {
-      display: inline-block;
-      background: linear-gradient(45deg, #25D366, #128C7E);
-      color: white;
-      padding: 12px 20px;
-      font-size: 18px;
-      font-weight: bold;
-      text-decoration: none;
-      border-radius: 25px;
-      transition: 0.3s ease-in-out;
-      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-      border: none;
-      text-align: center;
-   }
-
-   .confirm-btn:hover {
-      background: linear-gradient(45deg, #128C7E, #25D366);
-      transform: scale(1.05);
-      box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
-   }
-
-   /* Estilos para centrar el botón */
-   .button-container {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-   }
-</style>
 
 
 /* blog */
